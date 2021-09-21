@@ -1,0 +1,85 @@
+body{
+    background-color:green;
+    background-image:url(bgd.jpg);
+    background-size:cover;
+
+}
+h1{
+    
+    color: silver;
+    text-align: center;
+
+}
+.beograd{
+    text-align:center;
+    text-decoration-line:underline;
+    text-decoration-color: wheat;
+
+}
+.img{
+text-align:left;
+
+}
+h3{
+  color: crimson;  
+position: absolute;
+left: 700px;
+top: 100px;
+}
+
+
+  
+.moj{
+    color:darkviolet;
+    text-align: center;
+    
+
+}
+.youtube{
+    color: blue;
+  align-items: baseline;
+
+}
+.beograd{
+    color: brown;
+   align-items: baseline;
+
+}
+.html{
+    color:black;
+  align-items: baseline;
+
+}
+.you{
+    color:whitesmoke;
+    background-color: blue;
+    position:absolute;
+
+
+}
+.tekst{
+background-color: blue;
+color: cornsilk;
+position:absolute;
+height: 120px;
+width: 500px;
+left: 550px;
+top: 200px;
+text-decoration-line:underline;
+
+
+
+}
+.balkan{
+  height: 300px;
+position: relative;
+top: 40px;
+}
+
+
+
+
+
+
+
+
